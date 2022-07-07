@@ -1,27 +1,40 @@
-# PreviewCard
+# Frontend Mentor - 3-column preview card component
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+![Design preview for the 3-column preview card component coding challenge](./src/assets/designs/desktop-preview.jpg)
 
-## Development server
+## Welcome to Angular Frontend Challenge! 👋
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## The challenge
 
-## Code scaffolding
+Your challenge is to build out this 3-column preview card component and get it looking as close to the design as possible.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-## Build
+Your users should be able to:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
-## Running unit tests
+## Where to find everything
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Your task is to build out the project to the designs inside the `/assets/design` folder. You will find both a mobile and a desktop version of the design.
 
-## Running end-to-end tests
+The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+You will find all the required assets in the `/assets/images` folder. The assets are already optimized.
 
-## Further help
+There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Deploying your project
+
+Below is the link to the site
+
+- [GitHub Pages](https://pages.github.com/)
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+
+## Reach Out
+
+Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
+
+Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.

@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+/*Font */
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+
+/* Importing Bootstrap SCSS file. */
+@import "~bootstrap/scss/bootstrap";
+/*variable */
+@import "./variable";
+body {
+  color: var(--fontColor);
+  font-size: var(--fontSize);
+  font-family: "Lexend Deca", sans-serif;
+}

@@ -1,0 +1,66 @@
+.bg-orange {
+  background-color: var(--brightOrange);
+}
+
+.bg-cyan {
+  background-color: var(--darkCyan);
+}
+.bg-darkCyan {
+  background-color: var(--veryDarkCyan);
+}
+
+.card {
+  height: 60vh !important;
+  border-radius: 0px !important;
+  .card-body {
+    .title {
+      font-family: "Big Shoulders Display", cursive;
+      color: var(--fontButtonColor);
+    }
+  }
+}
+
+.btn-orange {
+  background-color: var(--fontButtonColor);
+  color: var(--brightOrange);
+  border-radius: 30px;
+
+  &:hover {
+    color: var(--fontButtonColor);
+    background-color: var(--brightOrange);
+    border: 2px solid var(--fontButtonColor);
+  }
+}
+.btn-cyan {
+  background-color: var(--fontButtonColor);
+  color: var(--darkCyan);
+  border-radius: 30px;
+
+  &:hover {
+    color: var(--fontButtonColor);
+    background-color: var(--darkCyan);
+    border: 2px solid var(--fontButtonColor);
+  }
+}
+.btn-darkCyan {
+  background-color: var(--fontButtonColor);
+  color: var(--veryDarkCyan);
+  border-radius: 30px;
+
+  &:hover {
+    color: var(--fontButtonColor);
+    background-color: var(--veryDarkCyan);
+    border: 2px solid var(--fontButtonColor);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .card {
+    height: auto !important;
+    .card-body {
+      .title {
+        margin-bottom: 1rem !important;
+      }
+    }
+  }
+}
