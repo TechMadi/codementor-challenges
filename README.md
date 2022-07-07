@@ -1,4 +1,4 @@
-# [Monival System](https://monival.com)
+# Angular Frontend Challenge
 
 **Fully Coded Components**
 
