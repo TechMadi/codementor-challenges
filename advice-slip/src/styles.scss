@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+  --adviceBlack: #1f2631;
+  --adviceFadedBlack: #323b4a;
+  --adviceGreen: #51fead;
+}
+
+body {
+  background-color: var(--adviceBlack);
+
+  .card {
+    background-color: var(--adviceFadedBlack);
+    position: absolute;
+    top: 40%;
+  }
+}

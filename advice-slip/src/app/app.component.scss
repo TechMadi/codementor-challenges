@@ -1,0 +1,27 @@
+.api_name {
+  text-align: center;
+  color: var(--adviceGreen);
+  text-transform: uppercase;
+}
+
+.advice {
+  text-align: center;
+  color: white;
+  font-weight: 700;
+}
+
+.separator {
+  display: flex;
+  justify-content: center;
+  color: white;
+  align-items: center;
+
+  hr {
+    background-color: white;
+    width: 40%;
+  }
+  span {
+    font-size: 2rem;
+    margin: 0.5rem;
+  }
+}
